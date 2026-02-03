@@ -7,6 +7,7 @@ This project investigates credit card fraud detection using classification-based
 Credit card fraud detection is a critical challenge for financial institutions, as fraudulent transactions cause financial losses, operational disruption, and reputational damage. Machine learning models are applied to identify rare fraud patterns within large volumes of transaction data.
 
 ## Dataset
+- Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - Source: Kaggle – Credit Card Fraud Detection Dataset  
 - Total transactions: 284,807  
 - Fraud cases: 492 (0.17%)  
@@ -85,4 +86,5 @@ credit-card-fraud-detection-r/
 - Applying multiple classification algorithms in R
 - Evaluating models using ROC–AUC rather than accuracy
 - Translating machine learning outputs into business-relevant insights
+
 
